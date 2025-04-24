@@ -19,6 +19,6 @@
 - enquanto mais calciúria (> 200mg/dl) maior o risco
 ### tto
 - diurese > 2L, ingestão normal de cálcio, diminuição de proteína animal, evitar excesso de sódio e aumentar consumo de potássio
-- na existência de uma indicação de gliflozina (como diabetes) já pode usar
+- na existência de uma indicação de gliflozina (como diabetes) já pode usar 
 # como prevenir a recorrente
-
+- reposição de cálcio deve ser feita junto com a refeição para quelar o oxalato
