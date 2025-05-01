@@ -16,8 +16,18 @@
 - tirar bem a história
 - queda de hb de quase 2 pontos. HDA? EDA sem urgência, está sem anticoagulante, pensa aas, precisa agendar a endoscopia se for fazer
 # miguel
-- D1 ur 16/04 -- D1 enf 18/04
+- D1 ur 16/04 -- D1 enf 18/04 por itu com dor torácica
 - alcalemia, alcalose respiratória
 - plano de fazer um cateterismo devido à dor torácica
 - No sábado ele teve uma dor torácica, não teve alteração de eletro, a troponina veio 300. Discuti com o plantonista da UCO ele sugeriu iniciar DAPT e realizar um cateterismo (sem urgência). 
+- em ceftriaxona, ver usg de vias urinárias, se normal tirar svd
+# clementina
+- protocolo avc
+- faze exame neurológico
+- ver os exames solicitados e agendá-los
+# gentil
+- retenção urinária aguda e constipação
+- internou com perda de consciência e broncoaspiração
+- está com cef e azitro, leuco e hb em queda, hb talvez não. Estase gástrica
+- ver pc, talvez conversar com paliativos
 
