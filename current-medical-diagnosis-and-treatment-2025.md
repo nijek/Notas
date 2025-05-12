@@ -29,6 +29,24 @@
 - tto: sistólica < 140, cirurgia se necessário
 ## subaracnoideo
 - pior cefaleia da vida, geralmente aneurisma ou mav
+- antes de trombolítico abaixar a pressão para < 185/110
+
+# distúrbios hidreletrolíticos
+- mulher 50% é água, 2/3 intracelular
+- fe = (urinax * serumcreat) / (serumx * urinacreat)
+- osm = 2*na + glico/18 + ureia/6
+- discrepância > 10 mmol/kg sugere gap osmolal
+
+
+# hiponatremia
+- volume status, osmolalidade urinária e sérica
+- geralmente excesso de água, em hospitalizados é por administração de fluidos hipotônicos
+- se crônica o cérebro se adaptou, corrigir vagarosamente 
+## isotônica e hipertônica
+- pseudohiponatremia por excesso de triglicerídeos hipergamaglobulinemia 
+- hipertônica: hiperglicemia, algo osmoticamente ativo puxa água do intracelular => correção do sódio (para ver se tem hiponatremia mesmo) é que a cada 100 mg/dL de glicose cai 1.6
+## hipotênica
+-  
 
 
 
