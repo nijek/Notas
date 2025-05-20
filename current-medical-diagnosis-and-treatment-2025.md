@@ -45,12 +45,18 @@
 ## isotônica e hipertônica
 - pseudohiponatremia por excesso de triglicerídeos hipergamaglobulinemia 
 - hipertônica: hiperglicemia, algo osmoticamente ativo puxa água do intracelular => correção do sódio (para ver se tem hiponatremia mesmo) é que a cada 100 mg/dL de glicose cai 1.6
-## hipotênica
--  
+## hipotônica
+- deficiência de cortisol diminui produção de mineralocorticoides
+-  PA baixa aumenta ADH, diminuit osmolalidade, mas aumenta volume intravascular
+- hipervolêmica: no edema da cirrose (vasodilatação sistêmica), IC (débito cardíaco reduzido), sd nefrótica ocorre redução do volume arterial, o que resulta na secreção de adh
+- SIADH: 
+- aguda <= 48h; 
+- se paciente com sintomas da hiponatremia corrigir com salina 3% bolus de 100ml em 10 minutos. Durante o tto fazer monitorização laboratorial a cada 1 a 2h
+- inibidor de sglt2
+- não corrigir mais que 8 meq/l em 24h (100ml de salina tem entre 1 e 2)
 
 
-
-
-    
-
+# Hipófise anterior
+- tsh, fsh e lh, prolactina, acth, gh pela hipófise
+- hipotálamo: CRH, GnRH, somatostatina, dopamina, ocitocina, adh
 
