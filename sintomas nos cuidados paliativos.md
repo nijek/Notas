@@ -11,3 +11,11 @@
 - perguntar qual sintoma incomoda mais
 - perguntar com analogia em escala numérica ou o quanto incomoda o paciente
 - mudança pode ser 2 pontos numa escala de 0 a 10
+___
+
+# Dor
+- para não verbais usar a PANAID
+
+# dispneia
+- 24% dos pacientes em fim de vida apresentam
+- 
